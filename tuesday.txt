@@ -1,3 +1,3 @@
-joc volei
-joc carti 
-joc baschet
+joc volei 12
+joc carti 2
+joc baschet 10
