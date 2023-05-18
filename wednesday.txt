@@ -1,5 +1,6 @@
-masina 
-roata
-volan
-sasiu
-usa
+masina 1
+roata 4
+volan 1
+sasiu 1
+usa 4
+oglinzi 2
