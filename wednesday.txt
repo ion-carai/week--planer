@@ -1,0 +1,5 @@
+masina 
+roata
+volan
+sasiu
+usa
