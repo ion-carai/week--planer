@@ -1,3 +1,6 @@
-televizor 
-telecomanda 
+televizor 2
+telecomanda 2
 post 1 
+post 2 
+post 3
+post 4
