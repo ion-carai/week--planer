@@ -1,0 +1,3 @@
+cumpar masina 1
+cumpar tractor 1
+cumpar motocicleta 1
